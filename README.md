@@ -16,3 +16,5 @@ No contexto de ferramentas Low-code e práticas de DevOps, as APIs são essencia
 1. **Integração:** Conectar ferramentas de automação (como GitHub Actions) com serviços de nuvem.
 2. **Extensibilidade:** Permitir que plataformas low-code consumam dados de bancos de dados externos ou microserviços.
 3. **Monitoramento:** Coletar métricas de performance e logs de execução.
+### Gerenciamento de APIs
+Além da integração, o uso de um **API Gateway** é uma prática comum em DevOps para centralizar o controle de tráfego, aplicar políticas de segurança (como rate limiting) e facilitar a governança das APIs consumidas por aplicações low-code. Isso garante que a comunicação entre sistemas seja resiliente e escalável.
